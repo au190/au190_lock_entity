@@ -3,7 +3,7 @@
 This Lovelace custom card avoid toggling entities by mistake in lovelace.
 This will display a normal toggle with a lock symbol in front of it.
 Clicking the lock will make it go away and enable the toggle to be manouvered for five seconds.
-https://github.com/au190/
+https://github.com/au190/au190_lock_entity
 
 
 #### Installation
