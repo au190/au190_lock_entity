@@ -28,10 +28,10 @@ cards:
         secondary_info: last-changed
       - entity: input_boolean.bedroombiglamp
         secondary_info: last-changed
-        type: 'custom:au190_lock_entity'
+        type: 'custom:au190-lock-entity'
       - entity: input_boolean.bedroomtv
         secondary_info: last-changed
-        type: 'custom:au190_lock_entity'
+        type: 'custom:au190-lock-entity'
     show_header_toggle: false
     title: Bed Room
     type: entities

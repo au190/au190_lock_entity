@@ -95,4 +95,4 @@ class ToggleLockEntityRow extends Polymer.Element {
 
 }
 
-customElements.define('toggle-lock-entity-row', ToggleLockEntityRow);
+customElements.define('au190-lock-entity', ToggleLockEntityRow);
